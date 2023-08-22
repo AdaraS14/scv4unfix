@@ -151,7 +151,7 @@ echo -e "$green          Install XRAY              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 1
 clear
-wget https://raw.githubusercontent.com/AdaraS14/scv4unfix/main/xray/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
+wget https://raw.githubusercontent.com/artanodrop/v4/main/xray/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 wget https://raw.githubusercontent.com/AdaraS14/scv4unfix/main/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 clear
 #pasang rc clone ssh ovpn 
